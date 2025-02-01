@@ -1,5 +1,5 @@
-- **ID**  A sequential numbered index
-- **label**  Target variable (“retained” vs “churned”) for if a user has churned anytime during the course of the month
+- **ID** - A sequential numbered index
+- **label** - Target variable (“retained” vs “churned”) for if a user has churned anytime during the course of the month
 - **sessions** - The number of occurrence of a user opening the app during the month
 - **drives** - An occurrence of driving at least 1 km during the month
 - **device** - The type of device a user starts a session with
