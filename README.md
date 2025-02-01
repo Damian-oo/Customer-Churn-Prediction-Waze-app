@@ -6,7 +6,7 @@ This project aims to predict customer churn using machine learning techniques. T
 ## Dataset information
 
 - **Source:** Kaggle - Waze Customer Churn Dataset
-- **Size:** 14,999 rows × 14 columns
+- **Size:** 14,999 rows × 13 columns
 - **Target Variable:** Label (Retained/Churned)
 - **Key Features:** 
   - `sessions` (The number of occurrence of a user opening the app during the month)
